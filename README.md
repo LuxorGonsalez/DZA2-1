@@ -1,4 +1,5 @@
-# aqa-code
+# [![Build status](https://ci.appveyor.com/api/projects/status/4sndyauynutbet5k?svg=true)](https://ci.appveyor.com/project/LuxorGonsalez/dza2-1)
+
 Код с лекций Автоматизация тестирования
 
 1. [x] [Основы автоматизации](basics/)
